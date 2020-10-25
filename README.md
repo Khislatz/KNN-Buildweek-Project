@@ -1,4 +1,4 @@
-# KNN-Buildweek-Project-
+# KNN-Buildweek-Project
 
 In this project I tried to develop a K-Nearest Neighbors Algorithm from scratch without using scikit-learn KNeighborsClassifier and test it on a real world dataset. Dataset "Census Income Data Set" was borrowed from UCI library. Then compared my results with the scikit-learn KNN results. The results of this dataset can be found in the "main_KNN_project" folder. I also tested my algorithm on a famous Titanic dataset. The results can be found in "titanic_KNN_testing" folder. 
 
