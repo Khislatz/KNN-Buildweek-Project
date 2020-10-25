@@ -18,4 +18,5 @@ Pseudocode for KNN algorithm:
 To calculate distances between a new point and its neighbors, we will create two functions: euclidean_d and manhattan_d, which could be equally utilized. However, the most commonly used method to calculate distances is Euclidian distance.
 
 
+
 Additional information can be found at: https://khislatz.medium.com/how-to-write-a-k-nearest-neighbors-algorithm-and-apply-it-on-a-real-world-dataset-7322d96dac66
