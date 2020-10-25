@@ -11,7 +11,7 @@ k in KNN is the parameter that defines the number of nearest neighbors, the majo
 There is no particular way to determine the optimal value of k that would lead to a better accuracy. Most of the time, we need to use a trial and error method.
 
 Pseudocode for KNN algorithm:
-    * Create a constructor method that will take a k value.
+    ```Create a constructor method that will take a k value.```
     * Create fit method, which will store our training data that we will use later on.
     * Create a predict method, which will consist of two functions, one of which will be used as a helper function and another one as a main function.
     * In a helper function 1) we will need to calculate distances between a new point and its nearest neighbors; 2) obtain the labels of the k nearest neighbors; 3) find the most common class that will decide which class the new point belongs to; 4) return the most common class.
